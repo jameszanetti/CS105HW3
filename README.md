@@ -8,4 +8,4 @@ jaz239@nau.edu
 Partner 2 -
 Mckenzie Clark
 mmc593
-mmc593@nau.edu
+mmc593@nau.edu 
